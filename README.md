@@ -2,15 +2,15 @@
 
 1. Qué es una pagina web?
 
-Es un documento digital complejo, que puede integrar y/o contener texto, sonido, video, programas, enlaces, imagenes, hipervinculos y otros elementos, adaptado para la World Wide Web, y que puede ser accedida y visualizada mediante un navegador web.
+   Es un documento digital complejo, que puede integrar y/o contener texto, sonido, video, programas, enlaces, imagenes, hipervinculos y otros elementos, adaptado para la World Wide Web, y que puede ser accedida y visualizada mediante un navegador web.
 
 2. Qué es un sitio web?
 
-Es una colección de paginas web relacionadas y comunes a un dominio de internet o subdominio en la World Wide Web dentro de Internet.
+   Es una colección de paginas web relacionadas y comunes a un dominio de internet o subdominio en la World Wide Web dentro de Internet.
 
 3. Qué es una aplicacion web? 
 
-En la ingeniería de software se denomina aplicación web es aquella herramienta que los usuarios pueden utilizar accediendo a un servidor web a través de internet o de una intranet mediante un navegador.
+   En la ingeniería de software se denomina aplicación web es aquella herramienta que los usuarios pueden utilizar accediendo a un servidor web a través de internet o de una intranet mediante un navegador.
 
 
 4. Qué es una herramienta ofimática?
@@ -47,7 +47,7 @@ En la ingeniería de software se denomina aplicación web es aquella herramienta
 ```
 7. ¿Qué es CSS ?
 
-CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
+   CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
 elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
