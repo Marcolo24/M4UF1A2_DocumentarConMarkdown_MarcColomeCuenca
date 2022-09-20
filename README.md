@@ -11,7 +11,8 @@ Es una colección de paginas web relacionadas y comunes a un dominio de internet
 3. Qué es una herramienta ofimática?
 
    Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación.
-4. Cuáles son las [herramientas de google](https://www.google.com/intl/es-419/chrome/browser-tools) que utilitzas habitualmente?
+   
+4. [Herramientas de google](https://www.google.com/intl/es-419/chrome/browser-tools)
 
    | Aplicaciones | Visto |
    | - | - |
@@ -20,6 +21,7 @@ Es una colección de paginas web relacionadas y comunes a un dominio de internet
    | Google Sheets | ✔️ |
    | Google Calendar | 📆 |
    | Google Meet | 💻 |
+   
 5. Qué es ``HTML``?
 
    Es un lenguaje de marcas. Es el lenguaje standart para crear sitios web.
